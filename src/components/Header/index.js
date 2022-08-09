@@ -11,7 +11,7 @@ function Header({ showProducts }) {
           className="header__input--text"
           onChange={(event) => showProducts(event.target.value)}
           type="text"
-          placeholder="Digitar pesquisa"
+          placeholder="Pesquisar"
         />
         <button className="header__input--button">Pesquisar</button>
       </div>

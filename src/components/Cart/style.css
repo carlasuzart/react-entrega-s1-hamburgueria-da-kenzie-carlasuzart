@@ -87,6 +87,7 @@
   font-family: "Inter", sans-serif;
   font-weight: 500;
   font-size: 12px;
+  cursor: pointer;
 }
 
 .cartTotal {
